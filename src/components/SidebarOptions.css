@@ -1,0 +1,21 @@
+.all_items{
+    display: flex;
+    background-color: rgb(231, 225, 225);
+    width: 20%;
+    border-radius: 5px;
+}
+.all_items:hover{
+    background-color:rgb(192, 185, 185); ;
+}
+.sidebar_icon{
+    height: 30px;
+    width: 30px;
+    padding-right: 20px;
+}
+.number{
+    position: absolute;
+    right:1100px;
+}
+.sidebaroptions--active{
+    background-color: rgb(241, 151, 139);
+}

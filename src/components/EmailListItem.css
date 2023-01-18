@@ -1,0 +1,26 @@
+.mybody{
+    display: flex;
+    background-color: rgb(233, 227, 227);
+    width:900px;
+}
+.mybody:hover{
+    background-color: azure;
+    border:1px solid black;
+    border-radius: 5px;
+}
+h4{
+    padding-left: 50px;
+}
+.pad{
+    padding-left: 100px;
+}
+.delete{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 30px;
+}
+.deleted
+{
+    display: none;
+}
